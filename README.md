@@ -48,7 +48,7 @@ IIT Delhi has a document called "[Courses of Study](https://home.iitd.ac.in/uplo
 
 ## M.Tech Computer Science and Engineering
 
-I have filtered out the course curriculum of M.Tech CSE from the "Courses of Study" and attached it [here](https://github.com/swakath/IITD_PG_FAQs/blob/main/documents/Courses%20of%20Study%20-%20MCS.pdf). The following table is from the same document. ![Credit Requirements](https://github.com/swakath/IITD_PG_FAQs/blob/main/documents/credit_requirements.png)
+I have filtered out the course curriculum of M.Tech CSE from the "Courses of Study" and attached it [here](documents/courses_of_study_MCS.pdf). The following table is from the same document. ![Credit Requirements](documents\credit_requirements.png)
 
 
 
