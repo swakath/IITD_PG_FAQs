@@ -6,9 +6,10 @@ Hello Reader, My name is [S U Swakath](https://www.linkedin.com/in/swakath-umam
 The information on this page is based on my past experiences at IIT Delhi and aims to address some common questions. It does not represent official IIT Delhi policies. For all official announcements regarding PG admissions, please visit https://home.iitd.ac.in/pg-admissions.php.
 
 ## Accommodation and Hostel
-### Areas
+
 There is a hostel crisis at IIT Delhi, and postgraduate students will not get a hostel in the first semester. However, the administration exempts female students, students with special needs, and foreign nationals from this rule. All female students in our batch received hostel accommodation in the first semester.
 
+### Localities
 Most of the students who did not get a hostel on campus opted for Paying Guest (PG) accommodations in residential clusters around the IIT Delhi campus, such as  [Jia Sarai](https://maps.app.goo.gl/fZ6Z5KApnVkt8Gqw6), [Katwaria Sarai](https://maps.app.goo.gl/KEBvNBBpBwvKcHMR8) and [Ber Sarai](https://maps.app.goo.gl/q8JWcQ2h5gU1D7iL6). These areas are crowded, and the overall hygiene factor is slightly below average. In short, they are not dreamlands, and one needs to compromise to stay here.
 
 Jia Sarai and Katwaria Sarai share a gate with the IIT campus, with most important buildings on the campus within a 15-minute walk from these localities. Entry through these gates is allowed between 5 AM and 11:59 PM, but exit is allowed 24/7. Most residents here are IIT students. These are the most suitable locations if **accessibility is your priority**. Ber Sarai, on the other hand, is slightly farther from the IIT campus, requiring a 15-minute cycle ride to commute. It is slightly less congested than the other two localities.
@@ -17,7 +18,7 @@ A few students opted for rooms in a locality called [Munirka](https://maps.app.g
 
 There are many more options, such as renting a flat with friends (at least 6-7 km away), which many PhD students do. However, I have listed only the most commonly used options by Master's students.
 
-### Rooms and rent
+### Rooms
 In all these locations, you can easily find a PG with a plethora of options to choose from, such as AC/Non-AC, independent rooms, or shared rooms, with or without food. Most of us stayed in double sharing or independent rooms. On average, room rent (combined) for an AC room costs ₹12,000-14,000, while a Non-AC room costs ₹10,000-12,000, with electricity and food charges extra. If you are in a double sharing room, the rent and electricity will be divided equally. Electricity is charged at ₹9 per unit. Based on average consumption, an AC room costs ₹2000-4000 for electricity, and a Non-AC room costs around ₹1000. So, in summary, if a person lives in double sharing with AC, it will cost them ₹7500-9000, and without AC, it will cost ₹6000-7000, for room rent and electricity.
 
 Most PGs have washing machines included. Additionally, there are many laundry services available online and within the campus, costing ₹65-80 per kg. I used the service from [UClean](https://www.uclean.in/).
@@ -47,6 +48,7 @@ IIT Delhi has a document called "[Courses of Study](https://home.iitd.ac.in/uplo
 
 ## M.Tech Computer Science and Engineering
 
+I have filtered out the course curriculum of M.Tech CSE from the "Courses of Study" and attached it [here](https://github.com/swakath/IITD_PG_FAQs/blob/main/documents/Courses%20of%20Study%20-%20MCS.pdf). The following table is from the same document. ![Credit Requirements](https://github.com/swakath/IITD_PG_FAQs/blob/main/documents/credit_requirements.png)
 
 
 
