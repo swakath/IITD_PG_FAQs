@@ -20,7 +20,7 @@ There are many more options, such as renting a flat with friends (at least 6-7 k
 ### Rooms
 In these areas, you'll find a wide range of Paying Guests (PG) accommodations offering various amenities, such as AC/Non-AC rooms, independent or shared living spaces, with or without meal options. Many of us opted for double sharing or independent rooms. On average, the monthly rent for an AC room ranges from ₹12,000 to ₹14,000, while a Non-AC room typically costs ₹10,000 to ₹12,000, with additional charges for electricity and meals. In a double sharing arrangement, the rent and electricity expenses are usually split evenly. Electricity is priced at ₹9 per unit, with AC rooms averaging ₹2000-4000 in monthly electricity costs, and Non-AC rooms around ₹1000. So, to summarize, living in a double sharing AC room would amount to ₹7500-9000, whereas without AC, it would range between ₹6000-7000, inclusive of rent and electricity charges.
 
-Most PG accommodations provide washing machines for residents' convenience. Furthermore, there are several laundry services accessible online and on-campus, charging approximately ₹65-80 per kilogram. Personally, I found [UClean's](https://www.uclean.in/) service to be reliable and convenient.
+Most PG accommodations provide washing machines for residents' convenience. Furthermore, there are several laundry services accessible online and on-campus, charging approximately ₹65-80 per kg. Personally, I found [UClean's](https://www.uclean.in/) service to be reliable and convenient.
 
 ### Food
 The majority of PG accommodations offer food services, typically charging around ₹150-200 per day for three meals. Alternatively, you can opt for the IIT mess subscription, which charges day scholars ₹250 per day for three meals. You have the flexibility to select any mess of your preference and can either purchase mess coupons or opt for a monthly mess card. From my experience, I always suggest choosing an IIT mess subscription over PG food. Despite being slightly more expensive, the food is extremely hygienic and offers a much wider variety of options compared to PG food. 
@@ -75,12 +75,12 @@ Students who opt for Track-A typically find a guide by the end of the first seme
 **The department will designate a professor as the program coordinator. You can approach her with any academic requirement-related doubts. Detailed information about academic requirements will be provided during the orientation program, which takes place right after your admission.**
 
 ### Teaching Assistanceship
-Master's students admitted through the Teaching Assistantship program will receive a stipend of ₹12,400 per month. They will be assigned to a course as a TA and are required to spend 8 hours per week assisting the professor in conducting the course. Responsibilities include conducting tutorials, lab sessions, invigilation, exam paper correction, and other related tasks. At the start of every semester, you will be asked to fill out a preference form to select a course for your TA duty. A professor in charge will then go through all the requests and assign you to a course.
+Master's students admitted through the Teaching Assistantship program will receive a stipend of ₹12,400 per month. They will be assigned to a course as a TA and are required to spend 8 hours per week assisting the professor in conducting the course. Responsibilities include conducting tutorials, lab sessions, invigilation, exam paper correction, and other related tasks. At the start of every semester, TAs will be asked to fill out a preference form to select a course for the TA duty. A professor in charge will then go through all the requests and assign courses.
 
 To continue receiving the assistantship, a student must maintain a minimum SGPA of 7.0 each semester. A satisfactory or unsatisfactory grade is awarded for TA work each semester, which will be reflected in the academic transcript. The CSE department also provides [TA Awards](https://www.cse.iitd.ac.in/index.php/2011-12-29-23-16-01/teaching-assistant-awards) at the end of each semester to TAs who have performed exceptionally well in their assigned courses.
 
 ### Tution Fees
-The Academic Section at IIT Delhi has shared the Fee Circular for the 1st Semester of 2024-25 via an internal email. I am attaching the [circular here](documents/sem1_fee_2024_25.pdf), for your reference, which contains detailed information regarding tuition fees. 
+The Academic Section at IIT Delhi has shared the Fee Circular for the 1st Semester of 2024-25 via an internal email. I am attaching the circular [here](documents/sem1_fee_2024_25.pdf), for your reference. This contains detailed information regarding tuition fees. 
 
 
 ## Contributions
