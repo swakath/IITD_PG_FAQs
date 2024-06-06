@@ -2,9 +2,6 @@
 ## Welcome to IIT Delhi!
 Hello! I'm [S U Swakath](https://www.linkedin.com/in/swakath-umamakeshwaran-57b2a717b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BceBgM1LuTQqpY2hsAvvp6g%3D%3D), currently in my second year of M.Tech in CSE at IIT Delhi. I've compiled this document to address common queries I've received from postgraduate students who will be joining IIT Delhi for the academic year 2024-25.
 
-## What is this?
-Hello Reader, My name is [S U Swakath](https://www.linkedin.com/in/swakath-umamakeshwaran-57b2a717b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BceBgM1LuTQqpY2hsAvvp6g%3D%3D). I am currently a 2nd Year M.Tech CSE student at IIT Delhi. I am writing this short write-up for PG students joining IIT Delhi in the academic year 2024-25. 
-
 ## Disclaimer
 The information on this page is based on my past experiences at IIT Delhi and aims to address some common questions. It does not represent official IIT Delhi policies. For all official announcements regarding PG admissions, please visit https://home.iitd.ac.in/pg-admissions.php.
 
