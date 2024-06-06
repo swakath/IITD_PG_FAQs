@@ -5,7 +5,7 @@ Hello Reader, My name is [S U Swakath](https://www.linkedin.com/in/swakath-umam
 ## Disclaimer
 The information on this page is based on my past experiences at IIT Delhi and aims to address some common questions. It does not represent official IIT Delhi policies. For all official announcements regarding PG admissions, please visit https://home.iitd.ac.in/pg-admissions.php.
 
-## Accommodation and Hostel
+## Accommodation and Food
 
 There is a hostel crisis at IIT Delhi, and postgraduate students will not get a hostel in the first semester. However, the administration exempts female students, students with special needs, and foreign nationals from this rule. All female students in our batch received hostel accommodation in the first semester.
 
@@ -43,16 +43,46 @@ The hope is that you will get an old hostel within the campus by the end of Janu
 ### Incampus accomodation cost
 The [Board for Hostel Management](https://bhm.iitd.ac.in/) (BHM) at IIT Delhi is the main body that takes care of hostel-related matters. They have issued a circular regarding the hostel charges for Semester 1 of the academic year 2024-25. I am attaching the circular [here](https://bhm.iitd.ac.in/static/media/HostelCharges.fbefc5fe8aecfcb9890f.pdf); you can go through it for exact costs. For additional information regarding hostel policies, you can visit the [Resources page](https://bhm.iitd.ac.in/resources) for BHM IIT Delhi.
 
-# Academics
+## Academics - M.Tech Computer Science and Engineering
 IIT Delhi has a document called "[Courses of Study](https://home.iitd.ac.in/uploads/course-of-study/Courses%20of%20Study%202023-24.pdf)", which is considered the Bhagavad Gita when it comes to academic matters at IIT Delhi. I'm pretty sure that no living person has read this document completely. You go through this to understand the grading system, your program's curriculum, and course options in detail. This document gets updated every academic year, but the basic structure remains more or less similar.
-
-## M.Tech Computer Science and Engineering
 
 I have filtered out the course curriculum of M.Tech CSE from the "Courses of Study" and attached it [here](documents/courses_of_study_MCS.pdf). The following table is from the same document. 
 
 <center><img src="documents/credit_requirements.png" width="486" height="311"/></center>
 
+### Bridge Courses
+Bridge courses are third-year bachelor's level courses. In MTech CSE, a student must clear 6 credits, which equals 2 bridge courses, as part of the credit requirement. There are four courses categorized as bridge courses:
+
+1. COL632 - Introduction to Database Systems
+2. COL633 - Resource Management in Computer Systems (OS)
+3. COL671 - Artificial Intelligence
+4. COL672 - Computer Networks
+
+A student can clear bridge courses in two ways:
+
+- **Waiver Exams:** Conducted during the first week of the semester, waiver exams allow students to bypass specific bridge courses if they pass. Participation is optional, and students can choose to take any number of exams. Each exam, overseen by a professor, may include subjective assessments or a viva component. Professors might also request proof of prior course completion during the student’s bachelor's degree. Passing these exams exempts students from taking the bridge course but does not award them credits or grades.
+
+- **Regular Classes:** Students can fulfill the bridge course requirement by taking two bridge courses during their MTech. These courses are completed through regular classes, exams, and projects, attended alongside B.Tech CSE students. This method allows students to earn credits and grades, which will be reflected in their GPA.
+
+Students who have already completed these courses in their bachelor's degree should aim to clear them via waiver exams to reduce their workload, allowing them to explore additional topics or have more leisure time. If a student fails the waiver exams, they can fulfill the requirement through regular classes.
+
+For students who have not taken these courses during their bachelor's degree, especially those from different backgrounds like Electrical Engineering like me, it is recommended to follow the second method to gain essential fundamentals. COL632 and COL633 will be offered in the even semester, while COL671 and COL672 will be offered in the odd semester.
+
+### Academic Tracks
+After the second semester, students will have two academic tracks to choose from: Track-A, which is thesis-based, and Track-B, which is course-based. To choose Track-A, a student should have a minimum CGPA of 7.25; if the CGPA is lower, additional approvals are required. Most students prefer Track-A as it provides the opportunity to work under a professor on a long-term project.
+
+Students who opt for Track-A typically find a guide by the end of the first semester in December and work with the professor for the next three semesters to fulfill their minor project, MTP-I, and MTP-II requirements.
+
+**The department will designate a professor as the program coordinator. You can approach her with any academic requirement-related doubts. Detailed information about academic requirements will be provided during the orientation program, which takes place right after your admission.**
+
+### Teaching Assistanceship
+Master's students admitted through the Teaching Assistantship program will receive a stipend of ₹12,400 per month. They will be assigned to a course as a TA and are required to spend 8 hours per week assisting the professor in conducting the course. Responsibilities include conducting tutorials, lab sessions, invigilation, exam paper correction, and other related tasks. 
+
+To continue receiving the assistantship, a student must maintain a minimum SGPA of 7.0 each semester. A satisfactory or unsatisfactory grade is awarded for TA work each semester, which will be reflected in the academic transcript. The CSE department also provides [TA Awards](https://www.cse.iitd.ac.in/index.php/2011-12-29-23-16-01/teaching-assistant-awards) at the end of each semester to TAs who have performed exceptionally well in their assigned courses.
+
+### Tution Fees
+The Academic Section at IIT Delhi has shared the Fee Circular for the 1st Semester of 2024-25 via an internal email. I am attaching the [circular here](documents/sem1_fee_2024_25.pdf), for your reference, which contains detailed information regarding tuition fees. 
 
 
-
-
+## Contributions
+For fellow IIT Delhi friends, please feel free to contribute to this write-up through pull requests. If you notice any inconsistencies in the information provided, please raise an issue or contact us via email at suswakath@gmail.com. Your input and collaboration are greatly appreciated in maintaining the accuracy and completeness of this document.
