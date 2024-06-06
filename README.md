@@ -39,7 +39,7 @@ Based on the above discussions, I have constructed a table with a worst-case bud
 ### Hope
 The hope is that you will get an old hostel within the campus by the end of January during your second semester. We all received campus accommodation by this time. The hostel allocation was done through a lottery system, and we got both double sharing and individual rooms. Getting an individual room proves your luck.
 
-### Incampus accomodation cost
+### On-Campus Accommodation Cost
 The [Board for Hostel Management](https://bhm.iitd.ac.in/) (BHM) at IIT Delhi is the main body that takes care of hostel-related matters. They have issued a circular regarding the hostel charges for Semester 1 of the academic year 2024-25. I am attaching the circular [here](https://bhm.iitd.ac.in/static/media/HostelCharges.fbefc5fe8aecfcb9890f.pdf); you can go through it for exact costs. For additional information regarding hostel policies, you can visit the [resources page](https://bhm.iitd.ac.in/resources) of BHM.
 
 ## Academics - M.Tech Computer Science and Engineering
