@@ -82,6 +82,10 @@ To continue receiving the assistantship, a student must maintain a minimum SGPA 
 ### Tution Fees
 The Academic Section at IIT Delhi has shared the Fee Circular for the 1st Semester of 2024-25 via an internal email. I am attaching the circular [here](documents/sem1_fee_2024_25.pdf), for your reference. This contains detailed information regarding tuition fees. 
 
+## Other Resources
+1. [Genesis](https://drive.google.com/file/d/1hOP71JXQCi_-JwIKSqlTn9-Wvw6uQTj5/view) - Introductory Freshers' Magazine  for PG by [BSP IIT Delhi](https://www.bspiitd.com/)
 
 ## Contributions
 For fellow IIT Delhi friends, please feel free to contribute to this write-up through pull requests. If you notice any inconsistencies in the information provided, please raise an issue or contact us via email at suswakath@gmail.com. Your input and collaboration are greatly appreciated in maintaining the accuracy and completeness of this document.
+
+- [Anjali Singh](https://www.linkedin.com/in/anjali-singh-9240bb187?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bxm3OQefzQg%2BkQw7cIv1%2B5A%3D%3D) : Notified Genesis Magazine
